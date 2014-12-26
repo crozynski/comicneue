@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="1">
+  <advance width="611"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <contour>
+      <point x="121" y="56" type="line"/>
+      <point x="121" y="326" type="line"/>
+      <point x="489" y="326" type="line"/>
+      <point x="506" y="382" type="line"/>
+      <point x="121" y="382" type="line"/>
+      <point x="121" y="625" type="line"/>
+      <point x="536" y="625" type="line"/>
+      <point x="546" y="681" type="line"/>
+      <point x="65" y="681" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="551" y="56" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="754" type="line"/>
+      <point x="249" y="900" type="line"/>
+      <point x="189" y="866" type="line"/>
+      <point x="329" y="726" type="line"/>
+    </contour>
+  </outline>
+</glyph>
