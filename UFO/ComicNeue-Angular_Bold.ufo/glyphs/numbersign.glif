@@ -5,39 +5,67 @@
   <outline>
     <contour>
       <point x="660" y="392" type="line"/>
-      <point x="687" y="486" type="line"/>
-      <point x="560" y="486" type="line"/>
-      <point x="614" y="677" type="line"/>
-      <point x="515" y="670" type="line"/>
-      <point x="462" y="486" type="line"/>
-      <point x="370" y="486" type="line"/>
-      <point x="425" y="678" type="line"/>
-      <point x="325" y="671" type="line"/>
-      <point x="271" y="486" type="line"/>
-      <point x="118" y="486" type="line"/>
-      <point x="91" y="392" type="line"/>
-      <point x="244" y="392" type="line"/>
-      <point x="214" y="287" type="line"/>
-      <point x="82" y="287" type="line"/>
-      <point x="55" y="193" type="line"/>
-      <point x="186" y="193" type="line"/>
-      <point x="131" y="-2" type="line"/>
-      <point x="230" y="5" type="line"/>
-      <point x="284" y="193" type="line"/>
-      <point x="377" y="193" type="line"/>
-      <point x="322" y="-2" type="line"/>
-      <point x="421" y="5" type="line"/>
-      <point x="475" y="193" type="line"/>
-      <point x="619" y="193" type="line"/>
-      <point x="647" y="287" type="line"/>
-      <point x="503" y="287" type="line"/>
       <point x="533" y="392" type="line"/>
+      <point x="503" y="287" type="line"/>
+      <point x="647" y="287" type="line"/>
+      <point x="619" y="193" type="line"/>
+      <point x="475" y="193" type="line"/>
+      <point x="421" y="5" type="line"/>
+      <point x="322" y="-2" type="line"/>
+      <point x="377" y="193" type="line"/>
+      <point x="284" y="193" type="line"/>
+      <point x="230" y="5" type="line"/>
+      <point x="131" y="-2" type="line"/>
+      <point x="186" y="193" type="line"/>
+      <point x="55" y="193" type="line"/>
+      <point x="82" y="287" type="line"/>
+      <point x="214" y="287" type="line"/>
+      <point x="244" y="392" type="line"/>
+      <point x="91" y="392" type="line"/>
+      <point x="118" y="486" type="line"/>
+      <point x="271" y="486" type="line"/>
+      <point x="325" y="671" type="line"/>
+      <point x="425" y="678" type="line"/>
+      <point x="370" y="486" type="line"/>
+      <point x="462" y="486" type="line"/>
+      <point x="515" y="670" type="line"/>
+      <point x="614" y="677" type="line"/>
+      <point x="560" y="486" type="line"/>
+      <point x="687" y="486" type="line"/>
     </contour>
     <contour>
       <point x="405" y="287" type="line"/>
-      <point x="312" y="287" type="line"/>
-      <point x="342" y="392" type="line"/>
       <point x="435" y="392" type="line"/>
+      <point x="342" y="392" type="line"/>
+      <point x="312" y="287" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-2</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>193</integer>
+            <key>width</key>
+            <integer>94</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>392</integer>
+            <key>width</key>
+            <integer>94</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

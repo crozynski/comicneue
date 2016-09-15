@@ -8,13 +8,17 @@ Basic Font Information
 
 Comic Neue is a Unicode typeface family that supports the languages
 outlined in the following two ISO standards:
-Latin 2 http://en.wikipedia.org/wiki/ISO/IEC_8859-15
+Latin 2 http://en.wikipedia.org/wiki/ISO/IEC_8859-2
 Latin 9 http://en.wikipedia.org/wiki/ISO/IEC_8859-15
 
 Documentation can be found at www.comicneue.com
-To contribute to the project you can fork the font on Github at ###.
+To contribute to the project you can fork the font on Github at
+https://www.github.com/crozynski/comicneue
 
 ChangeLog
+
+15 September 2016 (Brandon Schoech) Comic Neue version 2.3
+- Added low quotation marks and Esperanto glyphs.
 
 25 December 2014 (Craig Rozynski) Comic Neue version 2.1
 - Added SIL Open Font License.
@@ -23,7 +27,7 @@ ChangeLog
 – Refinements to glyphs and metrics.
 
 7 April 2014 (Craig Rozynski) Comic Neue version 1.0
-– Publicly launched intial iteration of the font.
+– Publicly launched initial iteration of the font.
 
 Acknowledgements
 
@@ -39,3 +43,9 @@ N: Craig Rozynski
 E: craig@craigrozynski.com
 W: http://www.comicneue.com
 D: Contributor - Original glyphs
+
+N: Brandon Schoech
+E: bms@mm.st
+W: http://www.thisthing.net
+D: Contributor - Additional glyphs
+
