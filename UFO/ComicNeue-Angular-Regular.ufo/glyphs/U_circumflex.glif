@@ -5,39 +5,76 @@
   <outline>
     <contour>
       <point x="342" y="0" type="curve" smooth="yes"/>
-      <point x="598" y="0"/>
-      <point x="618" y="245"/>
-      <point x="618" y="476" type="curve" smooth="yes"/>
-      <point x="618" y="550"/>
-      <point x="617" y="656"/>
-      <point x="616" y="680" type="curve"/>
-      <point x="560" y="669" type="line"/>
-      <point x="561" y="634"/>
-      <point x="562" y="514"/>
-      <point x="562" y="431" type="curve" smooth="yes"/>
-      <point x="562" y="260"/>
-      <point x="546" y="49"/>
-      <point x="342" y="49" type="curve" smooth="yes"/>
-      <point x="145" y="49"/>
-      <point x="122" y="241"/>
-      <point x="122" y="450" type="curve" smooth="yes"/>
-      <point x="122" y="534"/>
-      <point x="124" y="658"/>
-      <point x="125" y="680" type="curve"/>
-      <point x="68" y="670" type="line"/>
-      <point x="67" y="640"/>
-      <point x="66" y="529"/>
-      <point x="66" y="459" type="curve" smooth="yes"/>
-      <point x="66" y="197"/>
       <point x="105" y="0"/>
+      <point x="66" y="197"/>
+      <point x="66" y="459" type="curve" smooth="yes"/>
+      <point x="66" y="529"/>
+      <point x="67" y="640"/>
+      <point x="68" y="670" type="curve"/>
+      <point x="125" y="680" type="line"/>
+      <point x="124" y="658"/>
+      <point x="122" y="534"/>
+      <point x="122" y="450" type="curve" smooth="yes"/>
+      <point x="122" y="241"/>
+      <point x="145" y="49"/>
+      <point x="342" y="49" type="curve" smooth="yes"/>
+      <point x="546" y="49"/>
+      <point x="562" y="260"/>
+      <point x="562" y="431" type="curve" smooth="yes"/>
+      <point x="562" y="514"/>
+      <point x="561" y="634"/>
+      <point x="560" y="669" type="curve"/>
+      <point x="616" y="680" type="line"/>
+      <point x="617" y="656"/>
+      <point x="618" y="550"/>
+      <point x="618" y="476" type="curve" smooth="yes"/>
+      <point x="618" y="245"/>
+      <point x="598" y="0"/>
     </contour>
     <contour>
       <point x="239" y="718" type="line"/>
-      <point x="354" y="806" type="line"/>
-      <point x="449" y="719" type="line"/>
-      <point x="485" y="759" type="line"/>
-      <point x="356" y="881" type="line"/>
       <point x="206" y="760" type="line"/>
+      <point x="356" y="881" type="line"/>
+      <point x="485" y="759" type="line"/>
+      <point x="449" y="719" type="line"/>
+      <point x="354" y="806" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>49</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>660</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>66</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>562</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

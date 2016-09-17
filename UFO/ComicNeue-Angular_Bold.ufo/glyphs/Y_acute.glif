@@ -5,19 +5,35 @@
   <outline>
     <contour>
       <point x="208" y="772" type="line"/>
-      <point x="281" y="710" type="line"/>
-      <point x="471" y="831" type="line"/>
       <point x="385" y="906" type="line"/>
+      <point x="471" y="831" type="line"/>
+      <point x="281" y="710" type="line"/>
     </contour>
     <contour>
       <point x="324" y="318" type="line"/>
-      <point x="114" y="677" type="line"/>
-      <point x="2" y="677" type="line"/>
-      <point x="266" y="223" type="line"/>
-      <point x="135" y="0" type="line"/>
-      <point x="248" y="0" type="line"/>
-      <point x="650" y="677" type="line"/>
       <point x="537" y="677" type="line"/>
+      <point x="650" y="677" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="266" y="223" type="line"/>
+      <point x="2" y="677" type="line"/>
+      <point x="114" y="677" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

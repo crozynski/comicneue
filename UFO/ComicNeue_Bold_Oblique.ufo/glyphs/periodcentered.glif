@@ -5,17 +5,48 @@
   <outline>
     <contour>
       <point x="76" y="191" type="curve" smooth="yes"/>
-      <point x="107" y="191"/>
-      <point x="141" y="220"/>
-      <point x="149" y="256" type="curve" smooth="yes"/>
-      <point x="156" y="287"/>
-      <point x="139" y="312"/>
-      <point x="110" y="312" type="curve" smooth="yes"/>
-      <point x="79" y="312"/>
-      <point x="44" y="281"/>
+      <point x="50.7099" y="191"/>
+      <point x="35.369" y="208.766"/>
+      <point x="35.369" y="233.516" type="curve" smooth="yes"/>
+      <point x="35.369" y="238.125"/>
+      <point x="35.901" y="242.976"/>
       <point x="37" y="248" type="curve" smooth="yes"/>
-      <point x="30" y="216"/>
-      <point x="46" y="191"/>
+      <point x="44" y="281"/>
+      <point x="79" y="312"/>
+      <point x="110" y="312" type="curve" smooth="yes"/>
+      <point x="134.604" y="312"/>
+      <point x="150.571" y="294.004"/>
+      <point x="150.571" y="269.617" type="curve" smooth="yes"/>
+      <point x="150.571" y="265.26"/>
+      <point x="150.061" y="260.699"/>
+      <point x="149" y="256" type="curve" smooth="yes"/>
+      <point x="141" y="220"/>
+      <point x="107" y="191"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>191</integer>
+            <key>width</key>
+            <integer>121</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>35</integer>
+            <key>width</key>
+            <integer>115</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
