@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="1">
+  <advance width="628"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <contour>
+      <point x="322" y="266" type="line"/>
+      <point x="566" y="677" type="line"/>
+      <point x="628" y="677" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="290" y="214" type="line"/>
+      <point x="20" y="677" type="line"/>
+      <point x="82" y="677" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="771" type="line"/>
+      <point x="386" y="893" type="line"/>
+      <point x="439" y="848" type="line"/>
+      <point x="277" y="736" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

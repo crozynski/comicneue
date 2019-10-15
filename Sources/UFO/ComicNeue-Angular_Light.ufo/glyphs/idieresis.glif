@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="1">
+  <advance width="236"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="80" y="669" type="line"/>
+      <point x="72" y="604" type="line"/>
+      <point x="18" y="596" type="line"/>
+      <point x="25" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="246" y="669" type="line"/>
+      <point x="239" y="604" type="line"/>
+      <point x="185" y="596" type="line"/>
+      <point x="191" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="493" type="line"/>
+      <point x="140" y="498" type="line"/>
+      <point x="140" y="9" type="line"/>
+      <point x="99" y="2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>99</integer>
+            <key>width</key>
+            <integer>41</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

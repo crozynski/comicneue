@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zacute" format="1">
+  <advance width="611"/>
+  <unicode hex="0179"/>
+  <outline>
+    <contour>
+      <point x="253" y="784" type="line"/>
+      <point x="391" y="896" type="line"/>
+      <point x="429" y="864" type="line"/>
+      <point x="278" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="0" type="line"/>
+      <point x="52" y="44" type="line"/>
+      <point x="518" y="639" type="line"/>
+      <point x="83" y="639" type="line"/>
+      <point x="92" y="681" type="line"/>
+      <point x="547" y="681" type="line"/>
+      <point x="567" y="637" type="line"/>
+      <point x="100" y="42" type="line"/>
+      <point x="557" y="42" type="line"/>
+      <point x="549" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>639</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

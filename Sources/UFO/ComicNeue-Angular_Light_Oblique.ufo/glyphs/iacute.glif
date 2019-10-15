@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="1">
+  <advance width="195"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <contour>
+      <point x="110" y="617" type="line"/>
+      <point x="274" y="730" type="line"/>
+      <point x="304" y="698" type="line"/>
+      <point x="130" y="593" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="493" type="line"/>
+      <point x="161" y="498" type="line"/>
+      <point x="57" y="9" type="line"/>
+      <point x="16" y="2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>478</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>16</integer>
+            <key>width</key>
+            <integer>288</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

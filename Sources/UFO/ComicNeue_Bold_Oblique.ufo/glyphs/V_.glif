@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="561"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="160" y="33" type="curve"/>
+      <point x="87" y="610" type="line" smooth="yes"/>
+      <point x="86" y="619"/>
+      <point x="87" y="628"/>
+      <point x="88" y="633" type="curve" smooth="yes"/>
+      <point x="94" y="660"/>
+      <point x="118" y="680"/>
+      <point x="149" y="680" type="curve" smooth="yes"/>
+      <point x="168" y="680"/>
+      <point x="185" y="669"/>
+      <point x="188" y="646" type="curve" smooth="yes"/>
+      <point x="245" y="193" type="line"/>
+      <point x="245" y="193"/>
+      <point x="430" y="498"/>
+      <point x="521" y="649" type="curve"/>
+      <point x="535" y="669"/>
+      <point x="554" y="680"/>
+      <point x="574" y="680" type="curve" smooth="yes"/>
+      <point x="599.304" y="680"/>
+      <point x="613.95" y="662.489"/>
+      <point x="613.95" y="641.417" type="curve" smooth="yes"/>
+      <point x="613.95" y="638.339"/>
+      <point x="613.637" y="635.186"/>
+      <point x="613" y="632" type="curve" smooth="yes"/>
+      <point x="612" y="627"/>
+      <point x="609" y="620"/>
+      <point x="605" y="613" type="curve" smooth="yes"/>
+      <point x="252" y="31" type="line" smooth="yes"/>
+      <point x="238" y="8"/>
+      <point x="220" y="0"/>
+      <point x="200" y="0" type="curve" smooth="yes"/>
+      <point x="179" y="0"/>
+      <point x="162" y="11"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>88</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

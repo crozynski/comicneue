@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="404"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="88" y="66" type="line"/>
+      <point x="59" y="106" type="line"/>
+      <point x="250" y="251" type="line"/>
+      <point x="106" y="402" type="line"/>
+      <point x="149" y="442" type="line"/>
+      <point x="332" y="252" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>59</integer>
+            <key>width</key>
+            <integer>273</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

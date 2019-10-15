@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="476"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="411" y="-54" type="line"/>
+      <point x="-78" y="-54" type="line"/>
+      <point x="-57" y="0" type="line"/>
+      <point x="433" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-54</integer>
+            <key>width</key>
+            <integer>54</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
