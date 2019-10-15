@@ -1,10 +1,9 @@
+# Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 
-
+# Prefix: Prefix
 # GPOS 
-
-
 lookup kernHorizontalKerninglookup0 {
   lookupflag 0;
     pos \A \T -60;
@@ -1237,16 +1236,6 @@ lookup kern0 {
     pos \uni0162 \period -50;
 } kern0;
 
-feature kern {
-
- script DFLT;
-     language dflt ;
-      lookup kernHorizontalKerninglookup0;
-
- script latn;
-     language dflt ;
-      lookup kern0;
-} kern;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\A \AE \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Aogonek 
@@ -1283,4 +1272,14 @@ table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
 
 } GDEF;
+
+feature kern {
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+ script latn;
+     language dflt ;
+      lookup kern0;
+} kern;
 

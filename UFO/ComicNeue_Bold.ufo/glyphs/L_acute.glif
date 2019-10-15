@@ -6,10 +6,10 @@
     <contour>
       <point x="434" y="22" type="curve" smooth="yes"/>
       <point x="111" y="0" type="line" smooth="yes"/>
-      <point x="109.943" y="-0.0782782"/>
-      <point x="108.89" y="-0.116728"/>
-      <point x="107.84" y="-0.116728" type="curve" smooth="yes"/>
-      <point x="82.0813" y="-0.116728"/>
+      <point x="109.943" y="-0.07828"/>
+      <point x="108.89" y="-0.11673"/>
+      <point x="107.84" y="-0.11673" type="curve" smooth="yes"/>
+      <point x="82.0813" y="-0.11673"/>
       <point x="59" y="23.0568"/>
       <point x="59" y="49" type="curve" smooth="yes"/>
       <point x="59" y="632" type="line" smooth="yes"/>
