@@ -195,11 +195,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 940;
+value = 1000;
 },
 {
 name = winDescent;
-value = 201;
+value = 450;
 },
 {
 name = underlineThickness;
