@@ -113,10 +113,6 @@ value = (
 );
 },
 {
-name = vendorID;
-value = "    ";
-},
-{
 name = blueFuzz;
 value = 1;
 },
