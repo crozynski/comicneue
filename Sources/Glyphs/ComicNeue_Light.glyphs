@@ -7,20 +7,25 @@ n
 copyright = "-";
 customParameters = (
 {
+name = fsType;
+value = (
+);
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
 name = macintoshFONDName;
 value = "Comic Neue";
 },
 {
 name = note;
 value = "";
-},
-{
-name = openTypeNameLicense;
-value = "Licensed under the SIL Open Font License. Version 1.1.";
-},
-{
-name = openTypeNameLicenseURL;
-value = "http://scripts.sil.org/OFL";
 },
 {
 name = openTypeNameUniqueID;
@@ -98,11 +103,6 @@ value = 350;
 {
 name = openTypeOS2SuperscriptYSize;
 value = 600;
-},
-{
-name = fsType;
-value = (
-);
 },
 {
 name = unicodeRanges;
