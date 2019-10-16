@@ -3,7 +3,7 @@
 DisplayStrings = (
 noHO
 );
-copyright = "-";
+copyright = "Copyright 2014 The ComicNeue Project Authors (https://github.com/crozynski/comicneue)";
 customParameters = (
 {
 name = fsType;

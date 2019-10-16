@@ -1,6 +1,6 @@
 {
 .appVersion = "1230";
-copyright = "-";
+copyright = "Copyright 2014 The ComicNeue Project Authors (https://github.com/crozynski/comicneue)";
 customParameters = (
 {
 name = fsType;
@@ -133,7 +133,7 @@ name = trademark;
 value = "-";
 }
 );
-date = "2016-09-14 09:46:34 +0000";
+date = "2019-10-16 00:33:24 +0000";
 designer = "Craig Rozynski";
 designerURL = "http://www.craigrozynski.com";
 disablesNiceNames = 1;
