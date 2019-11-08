@@ -19,10 +19,6 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-name = macintoshFONDName;
-value = "Comic Neue";
-},
-{
 name = note;
 value = "";
 },
@@ -212,6 +208,7 @@ horizontalStems = (
 52,
 54
 );
+iconName = Light_Condensed;
 id = master01;
 verticalStems = (
 53,
@@ -22935,6 +22932,27 @@ width = 330;
 unicode = 0020;
 },
 {
+glyphname = nbspace;
+layers = (
+{
+layerId = master01;
+width = 330;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = master01;
+width = 600;
+}
+);
+unicode = 000D;
+},
+{
 glyphname = .notdef;
 layers = (
 {
@@ -23021,125 +23039,6 @@ width = 40;
 width = 500;
 }
 );
-},
-{
-glyphname = Euro;
-layers = (
-{
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"89 261 LINE SMOOTH",
-"73 261 OFFCURVE",
-"61 274 OFFCURVE",
-"61 289 CURVE SMOOTH",
-"61 305 OFFCURVE",
-"73 318 OFFCURVE",
-"89 318 CURVE SMOOTH",
-"138 318 LINE",
-"139 342 OFFCURVE",
-"143 365 OFFCURVE",
-"147 385 CURVE",
-"89 385 LINE SMOOTH",
-"73 385 OFFCURVE",
-"61 398 OFFCURVE",
-"61 414 CURVE SMOOTH",
-"61 430 OFFCURVE",
-"73 442 OFFCURVE",
-"89 442 CURVE SMOOTH",
-"163 442 LINE",
-"184 514 OFFCURVE",
-"282 691 OFFCURVE",
-"432 691 CURVE SMOOTH",
-"492 691 OFFCURVE",
-"543 675 OFFCURVE",
-"591 635 CURVE SMOOTH",
-"597 630 OFFCURVE",
-"600 623 OFFCURVE",
-"600 614 CURVE SMOOTH",
-"600 600 OFFCURVE",
-"588 588 OFFCURVE",
-"574 588 CURVE SMOOTH",
-"566 588 OFFCURVE",
-"560 592 OFFCURVE",
-"552 598 CURVE SMOOTH",
-"523 621 OFFCURVE",
-"485 637 OFFCURVE",
-"427 637 CURVE SMOOTH",
-"334 637 OFFCURVE",
-"247 518 OFFCURVE",
-"219 442 CURVE",
-"413 442 LINE SMOOTH",
-"429 442 OFFCURVE",
-"442 430 OFFCURVE",
-"442 414 CURVE SMOOTH",
-"442 398 OFFCURVE",
-"429 385 OFFCURVE",
-"413 385 CURVE SMOOTH",
-"201 385 LINE",
-"195 361 OFFCURVE",
-"192 339 OFFCURVE",
-"190 318 CURVE",
-"413 317 LINE SMOOTH",
-"429 317 OFFCURVE",
-"442 305 OFFCURVE",
-"442 289 CURVE SMOOTH",
-"442 273 OFFCURVE",
-"429 260 OFFCURVE",
-"413 260 CURVE SMOOTH",
-"192 260 LINE",
-"206 124 OFFCURVE",
-"338 54 OFFCURVE",
-"416 54 CURVE SMOOTH",
-"459 54 OFFCURVE",
-"494 61 OFFCURVE",
-"529 78 CURVE SMOOTH",
-"536 81 OFFCURVE",
-"540 83 OFFCURVE",
-"545 83 CURVE SMOOTH",
-"560 83 OFFCURVE",
-"572 71 OFFCURVE",
-"572 56 CURVE SMOOTH",
-"572 45 OFFCURVE",
-"565 35 OFFCURVE",
-"556 31 CURVE SMOOTH",
-"514 11 OFFCURVE",
-"470 0 OFFCURVE",
-"420 0 CURVE SMOOTH",
-"273 0 OFFCURVE",
-"144 131 OFFCURVE",
-"139 261 CURVE"
-);
-}
-);
-userData = {
-com.fontlab.hintData = {
-hhints = (
-{
-position = 0;
-width = 54;
-},
-{
-position = 261;
-width = 57;
-},
-{
-position = 385;
-width = 57;
-},
-{
-position = 637;
-width = 54;
-}
-);
-};
-};
-width = 663;
-}
-);
-unicode = 20AC;
 },
 {
 glyphname = cent;
@@ -23514,6 +23413,126 @@ width = 604;
 }
 );
 unicode = 0024;
+},
+{
+glyphname = euro;
+lastChange = "2019-11-08 14:52:44 +0000";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"89 261 LINE SMOOTH",
+"73 261 OFFCURVE",
+"61 274 OFFCURVE",
+"61 289 CURVE SMOOTH",
+"61 305 OFFCURVE",
+"73 318 OFFCURVE",
+"89 318 CURVE SMOOTH",
+"138 318 LINE",
+"139 342 OFFCURVE",
+"143 365 OFFCURVE",
+"147 385 CURVE",
+"89 385 LINE SMOOTH",
+"73 385 OFFCURVE",
+"61 398 OFFCURVE",
+"61 414 CURVE SMOOTH",
+"61 430 OFFCURVE",
+"73 442 OFFCURVE",
+"89 442 CURVE SMOOTH",
+"163 442 LINE",
+"184 514 OFFCURVE",
+"282 691 OFFCURVE",
+"432 691 CURVE SMOOTH",
+"492 691 OFFCURVE",
+"543 675 OFFCURVE",
+"591 635 CURVE SMOOTH",
+"597 630 OFFCURVE",
+"600 623 OFFCURVE",
+"600 614 CURVE SMOOTH",
+"600 600 OFFCURVE",
+"588 588 OFFCURVE",
+"574 588 CURVE SMOOTH",
+"566 588 OFFCURVE",
+"560 592 OFFCURVE",
+"552 598 CURVE SMOOTH",
+"523 621 OFFCURVE",
+"485 637 OFFCURVE",
+"427 637 CURVE SMOOTH",
+"334 637 OFFCURVE",
+"247 518 OFFCURVE",
+"219 442 CURVE",
+"413 442 LINE SMOOTH",
+"429 442 OFFCURVE",
+"442 430 OFFCURVE",
+"442 414 CURVE SMOOTH",
+"442 398 OFFCURVE",
+"429 385 OFFCURVE",
+"413 385 CURVE SMOOTH",
+"201 385 LINE",
+"195 361 OFFCURVE",
+"192 339 OFFCURVE",
+"190 318 CURVE",
+"413 317 LINE SMOOTH",
+"429 317 OFFCURVE",
+"442 305 OFFCURVE",
+"442 289 CURVE SMOOTH",
+"442 273 OFFCURVE",
+"429 260 OFFCURVE",
+"413 260 CURVE SMOOTH",
+"192 260 LINE",
+"206 124 OFFCURVE",
+"338 54 OFFCURVE",
+"416 54 CURVE SMOOTH",
+"459 54 OFFCURVE",
+"494 61 OFFCURVE",
+"529 78 CURVE SMOOTH",
+"536 81 OFFCURVE",
+"540 83 OFFCURVE",
+"545 83 CURVE SMOOTH",
+"560 83 OFFCURVE",
+"572 71 OFFCURVE",
+"572 56 CURVE SMOOTH",
+"572 45 OFFCURVE",
+"565 35 OFFCURVE",
+"556 31 CURVE SMOOTH",
+"514 11 OFFCURVE",
+"470 0 OFFCURVE",
+"420 0 CURVE SMOOTH",
+"273 0 OFFCURVE",
+"144 131 OFFCURVE",
+"139 261 CURVE"
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 54;
+},
+{
+position = 261;
+width = 57;
+},
+{
+position = 385;
+width = 57;
+},
+{
+position = 637;
+width = 54;
+}
+);
+};
+};
+width = 663;
+}
+);
+unicode = 20AC;
 },
 {
 glyphname = sterling;
@@ -26310,24 +26329,19 @@ width = 500;
 }
 );
 unicode = 02DB;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = master01;
+width = 600;
+}
+);
 }
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = ComicNeue;
-},
-{
-name = postscriptFullName;
-value = "Comic Neue";
-},
-{
-name = styleMapFamilyName;
-value = "Comic Neue Regular";
-}
-);
 instanceInterpolations = {
 master01 = 1;
 };

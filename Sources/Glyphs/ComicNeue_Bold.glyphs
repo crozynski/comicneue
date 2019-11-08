@@ -22423,6 +22423,27 @@ width = 356;
 unicode = 0020;
 },
 {
+glyphname = nbspace;
+layers = (
+{
+layerId = master01;
+width = 356;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = master01;
+width = 600;
+}
+);
+unicode = 000D;
+},
+{
 glyphname = .notdef;
 layers = (
 {
@@ -22509,133 +22530,6 @@ width = 84;
 width = 526;
 }
 );
-},
-{
-glyphname = Euro;
-layers = (
-{
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"501 11 OFFCURVE",
-"460 0 OFFCURVE",
-"410 0 CURVE SMOOTH",
-"272 0 OFFCURVE",
-"153 100 OFFCURVE",
-"136 222 CURVE",
-"109 222 LINE SMOOTH",
-"82 222 OFFCURVE",
-"61 245 OFFCURVE",
-"61 270 CURVE SMOOTH",
-"61 297 OFFCURVE",
-"82 319 OFFCURVE",
-"109 319 CURVE SMOOTH",
-"131 319 LINE",
-"132 338 OFFCURVE",
-"134 353 OFFCURVE",
-"137 365 CURVE",
-"109 365 LINE SMOOTH",
-"82 365 OFFCURVE",
-"61 387 OFFCURVE",
-"61 414 CURVE SMOOTH",
-"61 441 OFFCURVE",
-"82 462 OFFCURVE",
-"109 462 CURVE SMOOTH",
-"164 462 LINE",
-"192 538 OFFCURVE",
-"280 673 OFFCURVE",
-"421 673 CURVE SMOOTH",
-"481 673 OFFCURVE",
-"531 657 OFFCURVE",
-"580 617 CURVE SMOOTH",
-"590 608 OFFCURVE",
-"596 598 OFFCURVE",
-"596 580 CURVE SMOOTH",
-"596 556 OFFCURVE",
-"574 534 OFFCURVE",
-"550 534 CURVE SMOOTH",
-"535 534 OFFCURVE",
-"526 540 OFFCURVE",
-"515 548 CURVE SMOOTH",
-"492 566 OFFCURVE",
-"461 579 OFFCURVE",
-"419 579 CURVE SMOOTH",
-"353 579 OFFCURVE",
-"295 523 OFFCURVE",
-"265 462 CURVE",
-"403 462 LINE SMOOTH",
-"431 462 OFFCURVE",
-"452 441 OFFCURVE",
-"452 414 CURVE SMOOTH",
-"452 387 OFFCURVE",
-"431 365 OFFCURVE",
-"403 365 CURVE SMOOTH",
-"233 365 LINE",
-"229 354 OFFCURVE",
-"226 333 OFFCURVE",
-"225 319 CURVE",
-"288 319 OFFCURVE",
-"403 318 OFFCURVE",
-"403 318 CURVE SMOOTH",
-"431 318 OFFCURVE",
-"452 297 OFFCURVE",
-"452 270 CURVE SMOOTH",
-"452 243 OFFCURVE",
-"431 221 OFFCURVE",
-"403 221 CURVE SMOOTH",
-"232 221 LINE",
-"260 132 OFFCURVE",
-"348 94 OFFCURVE",
-"406 94 CURVE SMOOTH",
-"442 94 OFFCURVE",
-"473 101 OFFCURVE",
-"507 117 CURVE SMOOTH",
-"512 119 OFFCURVE",
-"517 121 OFFCURVE",
-"524 121 CURVE SMOOTH",
-"551 121 OFFCURVE",
-"570 100 OFFCURVE",
-"570 74 CURVE SMOOTH",
-"570 50 OFFCURVE",
-"558 37 OFFCURVE",
-"542 30 CURVE SMOOTH"
-);
-}
-);
-userData = {
-com.fontlab.hintData = {
-hhints = (
-{
-position = 0;
-width = 94;
-},
-{
-position = 222;
-width = 97;
-},
-{
-position = 365;
-width = 97;
-},
-{
-position = 579;
-width = 94;
-}
-);
-vhints = (
-{
-position = 131;
-width = 94;
-}
-);
-};
-};
-width = 689;
-}
-);
-unicode = 20AC;
 },
 {
 glyphname = cent;
@@ -22995,6 +22889,134 @@ width = 630;
 }
 );
 unicode = 0024;
+},
+{
+glyphname = euro;
+lastChange = "2019-11-08 14:53:01 +0000";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"501 11 OFFCURVE",
+"460 0 OFFCURVE",
+"410 0 CURVE SMOOTH",
+"272 0 OFFCURVE",
+"153 100 OFFCURVE",
+"136 222 CURVE",
+"109 222 LINE SMOOTH",
+"82 222 OFFCURVE",
+"61 245 OFFCURVE",
+"61 270 CURVE SMOOTH",
+"61 297 OFFCURVE",
+"82 319 OFFCURVE",
+"109 319 CURVE SMOOTH",
+"131 319 LINE",
+"132 338 OFFCURVE",
+"134 353 OFFCURVE",
+"137 365 CURVE",
+"109 365 LINE SMOOTH",
+"82 365 OFFCURVE",
+"61 387 OFFCURVE",
+"61 414 CURVE SMOOTH",
+"61 441 OFFCURVE",
+"82 462 OFFCURVE",
+"109 462 CURVE SMOOTH",
+"164 462 LINE",
+"192 538 OFFCURVE",
+"280 673 OFFCURVE",
+"421 673 CURVE SMOOTH",
+"481 673 OFFCURVE",
+"531 657 OFFCURVE",
+"580 617 CURVE SMOOTH",
+"590 608 OFFCURVE",
+"596 598 OFFCURVE",
+"596 580 CURVE SMOOTH",
+"596 556 OFFCURVE",
+"574 534 OFFCURVE",
+"550 534 CURVE SMOOTH",
+"535 534 OFFCURVE",
+"526 540 OFFCURVE",
+"515 548 CURVE SMOOTH",
+"492 566 OFFCURVE",
+"461 579 OFFCURVE",
+"419 579 CURVE SMOOTH",
+"353 579 OFFCURVE",
+"295 523 OFFCURVE",
+"265 462 CURVE",
+"403 462 LINE SMOOTH",
+"431 462 OFFCURVE",
+"452 441 OFFCURVE",
+"452 414 CURVE SMOOTH",
+"452 387 OFFCURVE",
+"431 365 OFFCURVE",
+"403 365 CURVE SMOOTH",
+"233 365 LINE",
+"229 354 OFFCURVE",
+"226 333 OFFCURVE",
+"225 319 CURVE",
+"288 319 OFFCURVE",
+"403 318 OFFCURVE",
+"403 318 CURVE SMOOTH",
+"431 318 OFFCURVE",
+"452 297 OFFCURVE",
+"452 270 CURVE SMOOTH",
+"452 243 OFFCURVE",
+"431 221 OFFCURVE",
+"403 221 CURVE SMOOTH",
+"232 221 LINE",
+"260 132 OFFCURVE",
+"348 94 OFFCURVE",
+"406 94 CURVE SMOOTH",
+"442 94 OFFCURVE",
+"473 101 OFFCURVE",
+"507 117 CURVE SMOOTH",
+"512 119 OFFCURVE",
+"517 121 OFFCURVE",
+"524 121 CURVE SMOOTH",
+"551 121 OFFCURVE",
+"570 100 OFFCURVE",
+"570 74 CURVE SMOOTH",
+"570 50 OFFCURVE",
+"558 37 OFFCURVE",
+"542 30 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 94;
+},
+{
+position = 222;
+width = 97;
+},
+{
+position = 365;
+width = 97;
+},
+{
+position = 579;
+width = 94;
+}
+);
+vhints = (
+{
+position = 131;
+width = 94;
+}
+);
+};
+};
+width = 689;
+}
+);
+unicode = 20AC;
 },
 {
 glyphname = sterling;
@@ -25743,6 +25765,15 @@ width = 526;
 }
 );
 unicode = 02DB;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = master01;
+width = 600;
+}
+);
 }
 );
 instances = (
@@ -25754,7 +25785,7 @@ value = "ComicNeue-Bold";
 },
 {
 name = postscriptFullName;
-value = "Comic Neue Bold";
+value = "Comic Neue";
 },
 {
 name = styleMapFamilyName;

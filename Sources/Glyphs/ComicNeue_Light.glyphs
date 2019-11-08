@@ -7,11 +7,6 @@ n
 copyright = "Copyright 2014 The ComicNeue Project Authors (https://github.com/crozynski/comicneue)";
 customParameters = (
 {
-name = fsType;
-value = (
-);
-},
-{
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
@@ -20,33 +15,14 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-name = macintoshFONDName;
-value = "Comic Neue";
-},
-{
 name = note;
 value = "";
-},
-{
-name = openTypeNameUniqueID;
-value = "2.003;;Comic Neue Light";
-},
-{
-name = openTypeNameVersion;
-value = "Version 2.003";
 },
 {
 name = codePageRanges;
 value = (
 1252,
 1250
-);
-},
-{
-name = openTypeOS2FamilyClass;
-value = (
-0,
-0
 );
 },
 {
@@ -60,6 +36,54 @@ value = (
 0,
 0,
 0,
+0,
+0
+);
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1,
+2
+);
+},
+{
+name = blueFuzz;
+value = 1;
+},
+{
+name = blueScale;
+value = 0.03963;
+},
+{
+name = blueShift;
+value = 7;
+},
+{
+name = trademark;
+value = "-";
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = macintoshFONDName;
+value = "Comic Neue";
+},
+{
+name = openTypeNameUniqueID;
+value = "2.003;;Comic Neue Light";
+},
+{
+name = openTypeNameVersion;
+value = "Version 2.003";
+},
+{
+name = openTypeOS2FamilyClass;
+value = (
 0,
 0
 );
@@ -101,36 +125,16 @@ name = openTypeOS2SuperscriptYOffset;
 value = 350;
 },
 {
-name = openTypeOS2SuperscriptYSize;
-value = 600;
-},
-{
-name = unicodeRanges;
-value = (
-0,
-1,
-2
-);
-},
-{
-name = blueFuzz;
-value = 1;
-},
-{
-name = blueScale;
-value = 0.03963;
-},
-{
-name = blueShift;
-value = 7;
-},
-{
 name = postscriptForceBold;
 value = 0;
 },
 {
-name = trademark;
-value = "-";
+name = openTypeOS2SuperscriptYSize;
+value = 600;
+},
+{
+name = "New Parameter";
+value = "New Value";
 }
 );
 date = "2016-09-14 09:42:32 +0000";
@@ -192,7 +196,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 100;
+value = 1000;
 },
 {
 name = winDescent;
@@ -22744,6 +22748,27 @@ width = 320;
 unicode = 0020;
 },
 {
+glyphname = nbspace;
+layers = (
+{
+layerId = master01;
+width = 320;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = master01;
+width = 600;
+}
+);
+unicode = 000D;
+},
+{
 glyphname = .notdef;
 layers = (
 {
@@ -22830,131 +22855,6 @@ width = 20;
 width = 490;
 }
 );
-},
-{
-glyphname = Euro;
-layers = (
-{
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"81 272 LINE SMOOTH",
-"70 272 OFFCURVE",
-"62 280 OFFCURVE",
-"62 291 CURVE SMOOTH",
-"62 301 OFFCURVE",
-"70 311 OFFCURVE",
-"81 311 CURVE SMOOTH",
-"142 311 LINE",
-"144 346 OFFCURVE",
-"149 376 OFFCURVE",
-"154 401 CURVE",
-"81 401 LINE SMOOTH",
-"70 401 OFFCURVE",
-"62 411 OFFCURVE",
-"62 421 CURVE SMOOTH",
-"62 431 OFFCURVE",
-"70 440 OFFCURVE",
-"81 440 CURVE SMOOTH",
-"166 440 LINE",
-"188 515 OFFCURVE",
-"288 699 OFFCURVE",
-"438 699 CURVE SMOOTH",
-"498 699 OFFCURVE",
-"549 684 OFFCURVE",
-"598 643 CURVE SMOOTH",
-"601 640 OFFCURVE",
-"603 636 OFFCURVE",
-"603 632 CURVE SMOOTH",
-"603 620 OFFCURVE",
-"596 614 OFFCURVE",
-"588 614 CURVE SMOOTH",
-"582 614 OFFCURVE",
-"576 616 OFFCURVE",
-"570 621 CURVE SMOOTH",
-"538 645 OFFCURVE",
-"494 664 OFFCURVE",
-"433 664 CURVE SMOOTH",
-"331 664 OFFCURVE",
-"233 527 OFFCURVE",
-"201 440 CURVE",
-"418 440 LINE SMOOTH",
-"429 440 OFFCURVE",
-"438 431 OFFCURVE",
-"438 421 CURVE SMOOTH",
-"438 411 OFFCURVE",
-"429 401 OFFCURVE",
-"418 401 CURVE SMOOTH",
-"189 401 LINE",
-"182 370 OFFCURVE",
-"178 340 OFFCURVE",
-"175 311 CURVE",
-"418 309 LINE SMOOTH",
-"429 309 OFFCURVE",
-"438 301 OFFCURVE",
-"438 291 CURVE SMOOTH",
-"438 280 OFFCURVE",
-"429 271 OFFCURVE",
-"418 271 CURVE SMOOTH",
-"176 271 LINE",
-"191 116 OFFCURVE",
-"337 35 OFFCURVE",
-"422 35 CURVE SMOOTH",
-"466 35 OFFCURVE",
-"507 44 OFFCURVE",
-"543 61 CURVE SMOOTH",
-"549 64 OFFCURVE",
-"555 66 OFFCURVE",
-"560 66 CURVE SMOOTH",
-"569 66 OFFCURVE",
-"574 57 OFFCURVE",
-"574 48 CURVE SMOOTH",
-"574 39 OFFCURVE",
-"571 35 OFFCURVE",
-"563 31 CURVE SMOOTH",
-"520 11 OFFCURVE",
-"477 0 OFFCURVE",
-"426 0 CURVE SMOOTH",
-"278 0 OFFCURVE",
-"149 137 OFFCURVE",
-"143 272 CURVE"
-);
-}
-);
-userData = {
-com.fontlab.hintData = {
-hhints = (
-{
-position = 0;
-width = 35;
-},
-{
-position = 272;
-width = 39;
-},
-{
-position = 401;
-width = 39;
-},
-{
-position = 664;
-width = 35;
-}
-);
-vhints = (
-{
-position = 143;
-width = 33;
-}
-);
-};
-};
-width = 653;
-}
-);
-unicode = 20AC;
 },
 {
 glyphname = cent;
@@ -23329,6 +23229,132 @@ width = 594;
 }
 );
 unicode = 0024;
+},
+{
+glyphname = euro;
+lastChange = "2019-11-08 14:51:41 +0000";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"81 272 LINE SMOOTH",
+"70 272 OFFCURVE",
+"62 280 OFFCURVE",
+"62 291 CURVE SMOOTH",
+"62 301 OFFCURVE",
+"70 311 OFFCURVE",
+"81 311 CURVE SMOOTH",
+"142 311 LINE",
+"144 346 OFFCURVE",
+"149 376 OFFCURVE",
+"154 401 CURVE",
+"81 401 LINE SMOOTH",
+"70 401 OFFCURVE",
+"62 411 OFFCURVE",
+"62 421 CURVE SMOOTH",
+"62 431 OFFCURVE",
+"70 440 OFFCURVE",
+"81 440 CURVE SMOOTH",
+"166 440 LINE",
+"188 515 OFFCURVE",
+"288 699 OFFCURVE",
+"438 699 CURVE SMOOTH",
+"498 699 OFFCURVE",
+"549 684 OFFCURVE",
+"598 643 CURVE SMOOTH",
+"601 640 OFFCURVE",
+"603 636 OFFCURVE",
+"603 632 CURVE SMOOTH",
+"603 620 OFFCURVE",
+"596 614 OFFCURVE",
+"588 614 CURVE SMOOTH",
+"582 614 OFFCURVE",
+"576 616 OFFCURVE",
+"570 621 CURVE SMOOTH",
+"538 645 OFFCURVE",
+"494 664 OFFCURVE",
+"433 664 CURVE SMOOTH",
+"331 664 OFFCURVE",
+"233 527 OFFCURVE",
+"201 440 CURVE",
+"418 440 LINE SMOOTH",
+"429 440 OFFCURVE",
+"438 431 OFFCURVE",
+"438 421 CURVE SMOOTH",
+"438 411 OFFCURVE",
+"429 401 OFFCURVE",
+"418 401 CURVE SMOOTH",
+"189 401 LINE",
+"182 370 OFFCURVE",
+"178 340 OFFCURVE",
+"175 311 CURVE",
+"418 309 LINE SMOOTH",
+"429 309 OFFCURVE",
+"438 301 OFFCURVE",
+"438 291 CURVE SMOOTH",
+"438 280 OFFCURVE",
+"429 271 OFFCURVE",
+"418 271 CURVE SMOOTH",
+"176 271 LINE",
+"191 116 OFFCURVE",
+"337 35 OFFCURVE",
+"422 35 CURVE SMOOTH",
+"466 35 OFFCURVE",
+"507 44 OFFCURVE",
+"543 61 CURVE SMOOTH",
+"549 64 OFFCURVE",
+"555 66 OFFCURVE",
+"560 66 CURVE SMOOTH",
+"569 66 OFFCURVE",
+"574 57 OFFCURVE",
+"574 48 CURVE SMOOTH",
+"574 39 OFFCURVE",
+"571 35 OFFCURVE",
+"563 31 CURVE SMOOTH",
+"520 11 OFFCURVE",
+"477 0 OFFCURVE",
+"426 0 CURVE SMOOTH",
+"278 0 OFFCURVE",
+"149 137 OFFCURVE",
+"143 272 CURVE"
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 35;
+},
+{
+position = 272;
+width = 39;
+},
+{
+position = 401;
+width = 39;
+},
+{
+position = 664;
+width = 35;
+}
+);
+vhints = (
+{
+position = 143;
+width = 33;
+}
+);
+};
+};
+width = 653;
+}
+);
+unicode = 20AC;
 },
 {
 glyphname = sterling;
@@ -26114,6 +26140,15 @@ width = 490;
 }
 );
 unicode = 02DB;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = master01;
+width = 600;
+}
+);
 }
 );
 instances = (
