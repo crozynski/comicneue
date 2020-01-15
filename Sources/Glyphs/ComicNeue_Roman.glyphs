@@ -17,7 +17,8 @@ ACEIOU,
 "ttt/caroncomb.alt \012nntnn/tcaron no/tcaron oo",
 "H/trademark TM",
 "/commaaccentcomb t/tcommaaccent",
-HH$HH
+HH$HH,
+COVZQUKLH
 );
 copyright = "Copyright 2014 The ComicNeue Project Authors (https://github.com/crozynski/comicneue)";
 customParameters = (
@@ -18374,7 +18375,7 @@ unicode = 0047;
 {
 color = 4;
 glyphname = H;
-lastChange = "2019-12-17 19:22:08 +0000";
+lastChange = "2020-01-14 17:39:36 +0000";
 layers = (
 {
 anchors = (
@@ -19486,7 +19487,7 @@ unicode = 004A;
 {
 color = 4;
 glyphname = K;
-lastChange = "2019-12-17 15:40:14 +0000";
+lastChange = "2020-01-14 17:58:10 +0000";
 layers = (
 {
 background = {
@@ -19532,6 +19533,23 @@ nodes = (
 "535 -1 OFFCURVE",
 "539 -1 CURVE SMOOTH"
 );
+},
+{
+closed = 1;
+nodes = (
+"549 -1 OFFCURVE",
+"558 8 OFFCURVE",
+"558 18 CURVE SMOOTH",
+"558 28 OFFCURVE",
+"549 37 OFFCURVE",
+"539 37 CURVE SMOOTH",
+"529 37 OFFCURVE",
+"520 28 OFFCURVE",
+"520 18 CURVE SMOOTH",
+"520 8 OFFCURVE",
+"529 -1 OFFCURVE",
+"539 -1 CURVE SMOOTH"
+);
 }
 );
 };
@@ -19540,13 +19558,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"549 -1 OFFCURVE",
-"558 6 OFFCURVE",
+"550 -1 OFFCURVE",
+"558 8 OFFCURVE",
 "558 17 CURVE SMOOTH",
-"558 22 OFFCURVE",
-"557 27 OFFCURVE",
-"551 32 CURVE SMOOTH",
-"161 335 LINE",
+"558 25 OFFCURVE",
+"554 29 OFFCURVE",
+"548 34 CURVE SMOOTH",
+"160 334 LINE",
 "531 650 LINE SMOOTH",
 "535 653 OFFCURVE",
 "538 658 OFFCURVE",
@@ -19573,9 +19591,9 @@ nodes = (
 "146 8 OFFCURVE",
 "146 19 CURVE SMOOTH",
 "146 301 LINE",
-"528 3 LINE SMOOTH",
-"531 0 OFFCURVE",
-"535 -1 OFFCURVE",
+"524 5 LINE SMOOTH",
+"529 1 OFFCURVE",
+"534 -1 OFFCURVE",
 "539 -1 CURVE SMOOTH"
 );
 }
@@ -19838,7 +19856,7 @@ unicode = 004B;
 {
 color = 4;
 glyphname = L;
-lastChange = "2019-12-19 02:27:50 +0000";
+lastChange = "2020-01-14 17:41:19 +0000";
 layers = (
 {
 anchors = (
@@ -19880,6 +19898,23 @@ nodes = (
 "119 -1 OFFCURVE",
 "129 0 CURVE SMOOTH"
 );
+},
+{
+closed = 1;
+nodes = (
+"494 25 OFFCURVE",
+"503 34 OFFCURVE",
+"503 43 CURVE SMOOTH",
+"503 52 OFFCURVE",
+"494 61 OFFCURVE",
+"485 61 CURVE SMOOTH",
+"476 61 OFFCURVE",
+"467 52 OFFCURVE",
+"467 43 CURVE SMOOTH",
+"467 34 OFFCURVE",
+"476 25 OFFCURVE",
+"485 25 CURVE SMOOTH"
+);
 }
 );
 };
@@ -19890,11 +19925,11 @@ closed = 1;
 nodes = (
 "485 25 LINE SMOOTH",
 "496 26 OFFCURVE",
-"503 34 OFFCURVE",
+"503 35 OFFCURVE",
 "503 43 CURVE SMOOTH",
-"503 54 OFFCURVE",
-"494 63 OFFCURVE",
-"483 62 CURVE SMOOTH",
+"503 53 OFFCURVE",
+"494 62 OFFCURVE",
+"482 61 CURVE SMOOTH",
 "147 38 LINE",
 "147 662 LINE SMOOTH",
 "147 673 OFFCURVE",
@@ -19905,8 +19940,8 @@ nodes = (
 "110 662 CURVE SMOOTH",
 "110 19 LINE SMOOTH",
 "110 7 OFFCURVE",
-"119 -1 OFFCURVE",
-"129 0 CURVE SMOOTH"
+"118 -1 OFFCURVE",
+"132 0 CURVE SMOOTH"
 );
 }
 );
@@ -23861,7 +23896,7 @@ unicode = 0055;
 {
 color = 4;
 glyphname = V;
-lastChange = "2019-12-17 18:44:52 +0000";
+lastChange = "2020-01-15 03:10:17 +0000";
 layers = (
 {
 background = {
@@ -23927,9 +23962,9 @@ nodes = (
 "23 680 OFFCURVE",
 "16 672 OFFCURVE",
 "16 662 CURVE SMOOTH",
-"16 659 OFFCURVE",
+"16 658 OFFCURVE",
 "17 654 OFFCURVE",
-"18 650 CURVE SMOOTH",
+"19 648 CURVE SMOOTH",
 "233 12 LINE SMOOTH",
 "236 3 OFFCURVE",
 "244 0 OFFCURVE",
@@ -25277,7 +25312,7 @@ unicode = 0059;
 {
 color = 4;
 glyphname = Z;
-lastChange = "2019-12-18 13:08:18 +0000";
+lastChange = "2020-01-15 03:55:56 +0000";
 layers = (
 {
 anchors = (
@@ -25326,11 +25361,7 @@ nodes = (
 "35 0 OFFCURVE",
 "48 0 CURVE SMOOTH"
 );
-}
-);
-};
-layerId = master01;
-paths = (
+},
 {
 closed = 1;
 nodes = (
@@ -25357,6 +25388,45 @@ nodes = (
 "51 638 OFFCURVE",
 "61 638 CURVE SMOOTH",
 "512 638 LINE",
+"30 40 LINE SMOOTH",
+"26 35 OFFCURVE",
+"24 28 OFFCURVE",
+"24 22 CURVE SMOOTH",
+"25 8 OFFCURVE",
+"35 0 OFFCURVE",
+"48 0 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"524 0 LINE SMOOTH",
+"534 0 OFFCURVE",
+"543 9 OFFCURVE",
+"543 20 CURVE SMOOTH",
+"543 30 OFFCURVE",
+"534 38 OFFCURVE",
+"524 38 CURVE SMOOTH",
+"75 38 LINE",
+"555 641 LINE SMOOTH",
+"558 645 OFFCURVE",
+"561 652 OFFCURVE",
+"561 657 CURVE SMOOTH",
+"561 670 OFFCURVE",
+"550 680 OFFCURVE",
+"537 680 CURVE SMOOTH",
+"61 680 LINE SMOOTH",
+"51 680 OFFCURVE",
+"41 671 OFFCURVE",
+"41 661 CURVE SMOOTH",
+"41 649 OFFCURVE",
+"51 642 OFFCURVE",
+"61 642 CURVE SMOOTH",
+"508 642 LINE",
 "30 40 LINE SMOOTH",
 "26 35 OFFCURVE",
 "24 28 OFFCURVE",
@@ -119406,42 +119476,42 @@ period = -127;
 };
 A = {
 Tcaron = -60;
+Tcommaaccent = -60;
 Yacute = -30;
 Ydieresis = -30;
 hyphen = -40;
-Tcommaaccent = -60;
 };
 Agrave = {
 T = -60;
 Tcaron = -60;
+Tcommaaccent = -60;
 V = -30;
 Y = -30;
 Yacute = -30;
 Ydieresis = -30;
 hyphen = -40;
-Tcommaaccent = -60;
 };
 L = {
 J = -30;
 Jcircumflex = -30;
 Tcaron = -90;
+Tcommaaccent = -90;
 Y = -80;
 Yacute = -80;
 Ydieresis = -80;
 hyphen = -80;
-Tcommaaccent = -90;
 };
 Lslash = {
 J = -30;
 T = -90;
 Tcaron = -90;
+Tcommaaccent = -90;
 V = -50;
 W = -40;
 Y = -80;
 Yacute = -80;
 Ydieresis = -80;
 hyphen = -80;
-Tcommaaccent = -90;
 };
 P = {
 A = -40;
@@ -119472,6 +119542,7 @@ J = -60;
 Jcircumflex = -60;
 T = 20;
 Tcaron = 20;
+Tcommaaccent = 20;
 aacute = -60;
 abreve = -20;
 acircumflex = -30;
@@ -119511,7 +119582,6 @@ otilde = -20;
 quotedblbase = -100;
 quotesinglbase = -100;
 slash = -90;
-Tcommaaccent = 20;
 };
 Tcaron = {
 A = -50;
@@ -119866,10 +119936,10 @@ one = -20;
 hyphen = {
 T = -60;
 Tcaron = -60;
+Tcommaaccent = -60;
 W = -30;
 Yacute = -50;
 Ydieresis = -50;
-Tcommaaccent = -60;
 };
 lslash = {
 "@MMK_R_o" = -15;
@@ -120005,6 +120075,7 @@ J = -80;
 Jcircumflex = -80;
 T = -20;
 Tcaron = -20;
+Tcommaaccent = -20;
 a = -100;
 aacute = -90;
 abreve = -80;
@@ -120047,7 +120118,6 @@ period = -150;
 quotedblbase = -150;
 quotesinglbase = -150;
 slash = -120;
-Tcommaaccent = -20;
 };
 t = {
 "@MMK_R_o" = -9;
@@ -120228,43 +120298,43 @@ space = 0;
 };
 A = {
 Tcaron = -60;
+Tcommaaccent = -60;
 Yacute = -30;
 Ydieresis = -30;
 hyphen = -40;
-Tcommaaccent = -60;
 };
 Agrave = {
 T = -60;
 Tcaron = -60;
+Tcommaaccent = -60;
 V = -30;
 Y = -30;
 Yacute = -30;
 Ydieresis = -30;
 hyphen = -40;
-Tcommaaccent = -60;
 };
 L = {
 J = -30;
 Jcircumflex = -30;
 T = -90;
 Tcaron = -90;
+Tcommaaccent = -90;
 Y = -80;
 Yacute = -80;
 Ydieresis = -80;
 hyphen = -80;
-Tcommaaccent = -90;
 };
 Lslash = {
 J = -30;
 T = -90;
 Tcaron = -90;
+Tcommaaccent = -90;
 V = -50;
 W = -40;
 Y = -80;
 Yacute = -80;
 Ydieresis = -80;
 hyphen = -80;
-Tcommaaccent = -90;
 };
 P = {
 A = -40;
@@ -120295,6 +120365,7 @@ J = -60;
 Jcircumflex = -60;
 T = 20;
 Tcaron = 20;
+Tcommaaccent = 20;
 aacute = -60;
 abreve = -20;
 acircumflex = -30;
@@ -120334,7 +120405,6 @@ otilde = -20;
 quotedblbase = -100;
 quotesinglbase = -100;
 slash = -90;
-Tcommaaccent = 20;
 };
 Tcaron = {
 A = -50;
@@ -120684,11 +120754,11 @@ slash = -50;
 hyphen = {
 T = -60;
 Tcaron = -60;
+Tcommaaccent = -60;
 W = -30;
 Y = -50;
 Yacute = -50;
 Ydieresis = -50;
-Tcommaaccent = -60;
 };
 lslash = {
 "@MMK_R_o" = -7;
@@ -120812,6 +120882,7 @@ J = -80;
 Jcircumflex = -80;
 T = -20;
 Tcaron = -20;
+Tcommaaccent = -20;
 a = -100;
 aacute = -90;
 abreve = -80;
@@ -120854,7 +120925,6 @@ period = -150;
 quotedblbase = -150;
 quotesinglbase = -150;
 slash = -120;
-Tcommaaccent = -20;
 };
 t = {
 "@MMK_R_o" = -30;
@@ -121002,41 +121072,41 @@ A = -95;
 A = {
 "@MMK_R_Y" = -60;
 Tcaron = -60;
+Tcommaaccent = -60;
 Yacute = -30;
 Ydieresis = -30;
-Tcommaaccent = -60;
 };
 Agrave = {
 T = -60;
 Tcaron = -60;
+Tcommaaccent = -60;
 V = -30;
 Y = -30;
 Yacute = -30;
 Ydieresis = -30;
 hyphen = -40;
-Tcommaaccent = -60;
 };
 L = {
 J = -30;
 Jcircumflex = -30;
 Tcaron = -90;
+Tcommaaccent = -90;
 Y = -80;
 Yacute = -80;
 Ydieresis = -80;
 hyphen = -80;
-Tcommaaccent = -90;
 };
 Lslash = {
 J = -30;
 T = -90;
 Tcaron = -90;
+Tcommaaccent = -90;
 V = -50;
 W = -40;
 Y = -80;
 Yacute = -80;
 Ydieresis = -80;
 hyphen = -80;
-Tcommaaccent = -90;
 };
 P = {
 A = -40;
@@ -121067,6 +121137,7 @@ J = -60;
 Jcircumflex = -60;
 T = 20;
 Tcaron = 20;
+Tcommaaccent = 20;
 a = -80;
 aacute = -60;
 abreve = -20;
@@ -121109,7 +121180,6 @@ period = -100;
 quotedblbase = -100;
 quotesinglbase = -100;
 slash = -90;
-Tcommaaccent = 20;
 };
 Tcaron = {
 A = -50;
@@ -121162,6 +121232,16 @@ oslash = -80;
 otilde = -20;
 period = -100;
 slash = -90;
+};
+Tcommaaccent = {
+a = -80;
+ae = -80;
+dcroat = -60;
+e = -80;
+g = -70;
+o = -80;
+oe = -80;
+period = -50;
 };
 V = {
 AE = -80;
@@ -121451,10 +121531,10 @@ slash = -50;
 hyphen = {
 T = -60;
 Tcaron = -60;
+Tcommaaccent = -60;
 W = -30;
 Yacute = -50;
 Ydieresis = -50;
-Tcommaaccent = -60;
 };
 one = {
 four = -10;
@@ -121577,6 +121657,7 @@ J = -80;
 Jcircumflex = -100;
 T = -20;
 Tcaron = -20;
+Tcommaaccent = -20;
 a = -100;
 aacute = -90;
 abreve = -80;
@@ -121619,7 +121700,6 @@ period = -150;
 quotedblbase = -150;
 quotesinglbase = -150;
 slash = -120;
-Tcommaaccent = -20;
 };
 t = {
 "@MMK_R_o" = -24;
@@ -121634,16 +121714,6 @@ seven = -10;
 underscore = {
 j = 60;
 jcircumflex = 60;
-};
-Tcommaaccent = {
-a = -80;
-ae = -80;
-dcroat = -60;
-e = -80;
-g = -70;
-o = -80;
-oe = -80;
-period = -50;
 };
 };
 };
