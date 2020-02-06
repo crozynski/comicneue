@@ -117946,6 +117946,8 @@ interpolationWeight = 300;
 instanceInterpolations = {
 master01 = 1;
 };
+isItalic = 1;
+linkStyle = Light;
 name = "Light Italic";
 weightClass = Light;
 },
