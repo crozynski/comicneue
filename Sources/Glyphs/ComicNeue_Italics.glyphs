@@ -32715,7 +32715,7 @@ unicode = 0067;
 {
 color = 5;
 glyphname = h;
-lastChange = "2020-01-27 17:22:59 +0000";
+lastChange = "2020-02-04 02:31:02 +0000";
 layers = (
 {
 anchors = (
@@ -32725,7 +32725,7 @@ position = "{236, 0}";
 },
 {
 name = top;
-position = "{384, 670}";
+position = "{206, 670}";
 }
 );
 background = {
@@ -32865,7 +32865,7 @@ position = "{227, 0}";
 },
 {
 name = top;
-position = "{370, 670}";
+position = "{202, 670}";
 }
 );
 background = {
@@ -33015,7 +33015,7 @@ position = "{218, 0}";
 },
 {
 name = top;
-position = "{373, 670}";
+position = "{208, 666}";
 }
 );
 background = {
@@ -83688,7 +83688,7 @@ unicode = 0124;
 {
 color = 5;
 glyphname = hcircumflex;
-lastChange = "2020-01-27 17:22:59 +0000";
+lastChange = "2020-02-04 02:31:02 +0000";
 layers = (
 {
 background = {
@@ -83708,7 +83708,7 @@ name = h;
 },
 {
 name = circumflexcomb.case;
-transform = "{1, 0, 0, 1, 144, 0}";
+transform = "{1, 0, 0, 1, -34, 0}";
 }
 );
 layerId = master01;
@@ -83840,7 +83840,7 @@ name = h;
 },
 {
 name = circumflexcomb.case;
-transform = "{1, 0, 0, 1, 130, 0}";
+transform = "{1, 0, 0, 1, -38, 0}";
 }
 );
 layerId = "ACFB53BD-70C1-480F-BE56-298851F5C10E";
@@ -83982,7 +83982,7 @@ name = h;
 },
 {
 name = circumflexcomb.case;
-transform = "{1, 0, 0, 1, 116, 0}";
+transform = "{1, 0, 0, 1, -49, -4}";
 }
 );
 layerId = "140D7E2C-8008-49AA-8FE3-CF6E53AFBA7D";
