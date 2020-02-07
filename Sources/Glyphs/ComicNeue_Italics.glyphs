@@ -1194,7 +1194,7 @@ verticalStems = (
 45
 );
 weight = Light;
-weightValue = 300;
+weightValue = 40;
 xHeight = 487;
 },
 {
@@ -1297,7 +1297,7 @@ verticalStems = (
 56,
 59
 );
-weightValue = 400;
+weightValue = 60;
 xHeight = 487;
 },
 {
@@ -1402,7 +1402,7 @@ verticalStems = (
 100
 );
 weight = Bold;
-weightValue = 700;
+weightValue = 95;
 xHeight = 487;
 }
 );
@@ -117942,7 +117942,7 @@ width = 600;
 );
 instances = (
 {
-interpolationWeight = 300;
+interpolationWeight = 40;
 instanceInterpolations = {
 master01 = 1;
 };
@@ -117952,7 +117952,7 @@ name = "Light Italic";
 weightClass = Light;
 },
 {
-interpolationWeight = 400;
+interpolationWeight = 60;
 instanceInterpolations = {
 "ACFB53BD-70C1-480F-BE56-298851F5C10E" = 1;
 };
@@ -117960,7 +117960,7 @@ isItalic = 1;
 name = Italic;
 },
 {
-interpolationWeight = 700;
+interpolationWeight = 95;
 instanceInterpolations = {
 "140D7E2C-8008-49AA-8FE3-CF6E53AFBA7D" = 1;
 };

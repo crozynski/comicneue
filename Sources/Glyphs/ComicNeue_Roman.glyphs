@@ -1205,7 +1205,7 @@ verticalStems = (
 38
 );
 weight = Light;
-weightValue = 300;
+weightValue = 40;
 xHeight = 487;
 },
 {
@@ -1307,7 +1307,7 @@ verticalStems = (
 56,
 57
 );
-weightValue = 400;
+weightValue = 60;
 xHeight = 487;
 },
 {
@@ -1406,7 +1406,7 @@ verticalStems = (
 100
 );
 weight = Bold;
-weightValue = 700;
+weightValue = 95;
 xHeight = 487;
 }
 );
@@ -92222,7 +92222,7 @@ name = "New Parameter";
 value = "New Value";
 }
 );
-interpolationWeight = 300;
+interpolationWeight = 40;
 instanceInterpolations = {
 master01 = 1;
 };
@@ -92230,14 +92230,14 @@ name = Light;
 weightClass = Light;
 },
 {
-interpolationWeight = 400;
+interpolationWeight = 60;
 instanceInterpolations = {
 "218416E4-0B36-4DBB-8D0A-D6BB29FB6576" = 1;
 };
 name = Regular;
 },
 {
-interpolationWeight = 700;
+interpolationWeight = 95;
 instanceInterpolations = {
 "BB1A411A-CAFC-47D3-A925-066104B707B4" = 1;
 };
