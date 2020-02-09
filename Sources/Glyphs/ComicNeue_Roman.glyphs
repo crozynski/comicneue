@@ -92378,19 +92378,19 @@ name = "New Parameter";
 value = "New Value";
 }
 );
-interpolationWeight = 50;
+interpolationWeight = 40;
 instanceInterpolations = {
-"218416E4-0B36-4DBB-8D0A-D6BB29FB6576" = 0.84211;
-master01 = 0.15789;
+"218416E4-0B36-4DBB-8D0A-D6BB29FB6576" = 0.31579;
+master01 = 0.68421;
 };
 name = Light;
 weightClass = Light;
 },
 {
-interpolationWeight = 70;
+interpolationWeight = 60;
 instanceInterpolations = {
-"218416E4-0B36-4DBB-8D0A-D6BB29FB6576" = 0.59524;
-"BB1A411A-CAFC-47D3-A925-066104B707B4" = 0.40476;
+"218416E4-0B36-4DBB-8D0A-D6BB29FB6576" = 0.83333;
+"BB1A411A-CAFC-47D3-A925-066104B707B4" = 0.16667;
 };
 name = Regular;
 },

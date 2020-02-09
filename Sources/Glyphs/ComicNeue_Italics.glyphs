@@ -118767,10 +118767,10 @@ width = 600;
 );
 instances = (
 {
-interpolationWeight = 50;
+interpolationWeight = 40;
 instanceInterpolations = {
-"ACFB53BD-70C1-480F-BE56-298851F5C10E" = 0.68421;
-master01 = 0.31579;
+"ACFB53BD-70C1-480F-BE56-298851F5C10E" = 0.15789;
+master01 = 0.84211;
 };
 isItalic = 1;
 linkStyle = Light;
@@ -118778,10 +118778,10 @@ name = "Light Italic";
 weightClass = Light;
 },
 {
-interpolationWeight = 70;
+interpolationWeight = 60;
 instanceInterpolations = {
-"140D7E2C-8008-49AA-8FE3-CF6E53AFBA7D" = 0.35897;
-"ACFB53BD-70C1-480F-BE56-298851F5C10E" = 0.64103;
+"140D7E2C-8008-49AA-8FE3-CF6E53AFBA7D" = 0.10256;
+"ACFB53BD-70C1-480F-BE56-298851F5C10E" = 0.89744;
 };
 isItalic = 1;
 name = Italic;
