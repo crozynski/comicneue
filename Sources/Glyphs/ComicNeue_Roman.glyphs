@@ -12,7 +12,6 @@ COVZQUKLH,
 "`¨´àáâãä/abreve/aogonek/dotaccent/hungarumlaut/caron/breve/ogonek/circumflex/tilde ¸",
 "0123456789\012H0H1H2H3H4H5H6H7H8H9H\012DHH!H\"H#HH$H%H&H'H\012H(HONORH)H*H+H,H-H.HH//H\012H.:H,;H<H=H>¿HH?H@H\0120123456789\012HHSO$1HH$2HH$3HH$4HH$5HH$6HH$7HH$8HH$9HH$0HH\012H0H1H2H3H4H5H6H7H8H9H\012DHH!H\"H¡H#HH$H%H&H'H\012H(HONORH)H*H21+12H,H-H.HH//H\012H.:H,;H<H=H>¿HH?H@H \012H21+12HH21×12HH21/minus 12HH21÷12KHH21=12",
 "H/guilsinglleft/guilsinglright «Hola» nnn «hola»",
-"HH0H1H2H3H4H5H6H7H8H9HH\012HH /zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf \012HH/zero.tf H/one.tf H/two.tf H/three.tf H/four.tf H/five.tf H/six.tf H/seven.tf H/eight.tf H/nine.tf H",
 "/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf",
 "/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf"
 );
@@ -31,7 +30,7 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = codePageRanges;
