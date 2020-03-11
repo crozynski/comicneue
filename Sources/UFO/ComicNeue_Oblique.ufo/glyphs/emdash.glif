@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="1">
+  <advance width="877"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="91" y="221" type="curve" smooth="yes"/>
+      <point x="763" y="221" type="line" smooth="yes"/>
+      <point x="779" y="221"/>
+      <point x="794" y="233"/>
+      <point x="797" y="249" type="curve"/>
+      <point x="797.597" y="251.238"/>
+      <point x="797.882" y="253.432"/>
+      <point x="797.882" y="255.545" type="curve" smooth="yes"/>
+      <point x="797.882" y="267.59"/>
+      <point x="788.612" y="277"/>
+      <point x="775" y="277" type="curve" smooth="yes"/>
+      <point x="103" y="277" type="line" smooth="yes"/>
+      <point x="87" y="277"/>
+      <point x="73" y="264"/>
+      <point x="69" y="249" type="curve"/>
+      <point x="68.6147" y="246.945"/>
+      <point x="68.4273" y="244.956"/>
+      <point x="68.4273" y="243.05" type="curve" smooth="yes"/>
+      <point x="68.4273" y="230.115"/>
+      <point x="77.055" y="221"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>221</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-15 23:54:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

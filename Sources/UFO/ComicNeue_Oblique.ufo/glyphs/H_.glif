@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="685"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="curve" smooth="yes"/>
+      <point x="54" y="0"/>
+      <point x="69" y="13"/>
+      <point x="72" y="28" type="curve" smooth="yes"/>
+      <point x="128" y="288" type="line"/>
+      <point x="582" y="349" type="line"/>
+      <point x="513" y="28" type="line" smooth="yes"/>
+      <point x="510" y="13"/>
+      <point x="521" y="0"/>
+      <point x="537" y="0" type="curve" smooth="yes"/>
+      <point x="552" y="0"/>
+      <point x="567" y="13"/>
+      <point x="570" y="28" type="curve" smooth="yes"/>
+      <point x="702" y="647" type="line" smooth="yes"/>
+      <point x="703" y="653"/>
+      <point x="704" y="657"/>
+      <point x="704" y="661" type="curve" smooth="yes"/>
+      <point x="703" y="672"/>
+      <point x="693.891" y="681"/>
+      <point x="681" y="681" type="curve" smooth="yes"/>
+      <point x="665" y="681"/>
+      <point x="650" y="669"/>
+      <point x="646" y="653" type="curve" smooth="yes"/>
+      <point x="594" y="407" type="line"/>
+      <point x="140" y="346" type="line"/>
+      <point x="203" y="643" type="line" smooth="yes"/>
+      <point x="205" y="651"/>
+      <point x="206" y="656"/>
+      <point x="206" y="659" type="curve" smooth="yes"/>
+      <point x="206" y="672"/>
+      <point x="195.762" y="681"/>
+      <point x="182" y="681" type="curve" smooth="yes"/>
+      <point x="166" y="681"/>
+      <point x="152" y="669"/>
+      <point x="148" y="653" type="curve" smooth="yes"/>
+      <point x="123" y="532"/>
+      <point x="31" y="103"/>
+      <point x="18" y="42" type="curve" smooth="yes"/>
+      <point x="16" y="33"/>
+      <point x="14" y="26"/>
+      <point x="14" y="22" type="curve" smooth="yes"/>
+      <point x="14" y="11"/>
+      <point x="23" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>661</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-15 23:54:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

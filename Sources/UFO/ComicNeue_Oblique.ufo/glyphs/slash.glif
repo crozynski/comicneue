@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="1">
+  <advance width="545"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="41" y="-1" type="curve" smooth="yes"/>
+      <point x="51" y="-1"/>
+      <point x="61" y="4"/>
+      <point x="68" y="13" type="curve" smooth="yes"/>
+      <point x="550" y="641" type="line" smooth="yes"/>
+      <point x="555" y="648"/>
+      <point x="562" y="657"/>
+      <point x="564" y="666" type="curve" smooth="yes"/>
+      <point x="564.385" y="667.67"/>
+      <point x="564.573" y="669.339"/>
+      <point x="564.573" y="670.981" type="curve" smooth="yes"/>
+      <point x="564.573" y="682.125"/>
+      <point x="555.945" y="692"/>
+      <point x="542" y="692" type="curve" smooth="yes"/>
+      <point x="532" y="692"/>
+      <point x="521" y="688"/>
+      <point x="514" y="678" type="curve" smooth="yes"/>
+      <point x="25" y="41" type="line" smooth="yes"/>
+      <point x="22" y="37"/>
+      <point x="20" y="32"/>
+      <point x="19" y="27" type="curve" smooth="yes"/>
+      <point x="18.5857" y="24.9285"/>
+      <point x="18.3812" y="22.8952"/>
+      <point x="18.3812" y="20.929" type="curve" smooth="yes"/>
+      <point x="18.3812" y="8.65739"/>
+      <point x="26.3477" y="-1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-1</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-15 23:54:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

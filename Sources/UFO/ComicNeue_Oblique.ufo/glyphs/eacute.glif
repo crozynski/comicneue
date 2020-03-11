@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eacute" format="1">
+  <advance width="521"/>
+  <unicode hex="00E9"/>
+  <outline>
+    <contour>
+      <point x="245" y="0" type="curve" smooth="yes"/>
+      <point x="306" y="0"/>
+      <point x="380" y="32"/>
+      <point x="424" y="72" type="curve" smooth="yes"/>
+      <point x="429" y="76"/>
+      <point x="433" y="83"/>
+      <point x="435" y="90" type="curve" smooth="yes"/>
+      <point x="435.388" y="91.9376"/>
+      <point x="435.575" y="93.8084"/>
+      <point x="435.575" y="95.5974" type="curve" smooth="yes"/>
+      <point x="435.575" y="107.658"/>
+      <point x="427.062" y="116"/>
+      <point x="414" y="116" type="curve" smooth="yes"/>
+      <point x="407" y="116"/>
+      <point x="400" y="113"/>
+      <point x="394" y="108" type="curve" smooth="yes"/>
+      <point x="361" y="77"/>
+      <point x="298" y="52"/>
+      <point x="255" y="52" type="curve" smooth="yes"/>
+      <point x="174" y="52"/>
+      <point x="122" y="86"/>
+      <point x="99" y="155" type="curve"/>
+      <point x="456" y="337" type="line" smooth="yes"/>
+      <point x="474" y="346"/>
+      <point x="482" y="355"/>
+      <point x="484" y="366" type="curve" smooth="yes"/>
+      <point x="484.826" y="369.947"/>
+      <point x="485.256" y="374.291"/>
+      <point x="485.256" y="378.924" type="curve" smooth="yes"/>
+      <point x="485.256" y="424.766"/>
+      <point x="443.158" y="499"/>
+      <point x="326" y="499" type="curve" smooth="yes"/>
+      <point x="190" y="499"/>
+      <point x="75" y="376"/>
+      <point x="46" y="238" type="curve" smooth="yes"/>
+      <point x="42.5104" y="221.357"/>
+      <point x="40.7861" y="204.895"/>
+      <point x="40.7861" y="188.864" type="curve" smooth="yes"/>
+      <point x="40.7861" y="85.4524"/>
+      <point x="112.535" y="0"/>
+    </contour>
+    <contour>
+      <point x="92" y="206" type="line"/>
+      <point x="93" y="217"/>
+      <point x="95" y="226"/>
+      <point x="97" y="237" type="curve" smooth="yes"/>
+      <point x="122" y="353"/>
+      <point x="212" y="446"/>
+      <point x="314" y="446" type="curve" smooth="yes"/>
+      <point x="389" y="446"/>
+      <point x="424" y="420"/>
+      <point x="432" y="373" type="curve"/>
+    </contour>
+    <contour>
+      <point x="297" y="563" type="curve" smooth="yes"/>
+      <point x="303" y="563"/>
+      <point x="312" y="567"/>
+      <point x="320" y="572" type="curve" smooth="yes"/>
+      <point x="478" y="666" type="line" smooth="yes"/>
+      <point x="486" y="671"/>
+      <point x="491" y="680"/>
+      <point x="493" y="689" type="curve" smooth="yes"/>
+      <point x="493.551" y="691.755"/>
+      <point x="493.817" y="694.435"/>
+      <point x="493.817" y="697.007" type="curve" smooth="yes"/>
+      <point x="493.817" y="713.105"/>
+      <point x="483.383" y="725"/>
+      <point x="467" y="725" type="curve" smooth="yes"/>
+      <point x="456" y="725"/>
+      <point x="444" y="717"/>
+      <point x="434" y="710" type="curve" smooth="yes"/>
+      <point x="287" y="607" type="line" smooth="yes"/>
+      <point x="281" y="603"/>
+      <point x="278" y="596"/>
+      <point x="277" y="590" type="curve" smooth="yes"/>
+      <point x="276.61" y="588.051"/>
+      <point x="276.423" y="586.153"/>
+      <point x="276.423" y="584.325" type="curve" smooth="yes"/>
+      <point x="276.423" y="572.084"/>
+      <point x="284.819" y="563"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>52</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>446</integer>
+            <key>width</key>
+            <integer>53</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-15 23:54:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>
