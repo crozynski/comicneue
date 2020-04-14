@@ -17,7 +17,7 @@ https://www.github.com/crozynski/comicneue
 
 ChangeLog
 
-14 April 2020 (Viviana Monslave) Comic Neue version 2.5
+14 April 2020 (Viviana Monsalve) Comic Neue version 2.5
 – Various updates made to meet Google Fonts standards.
 
 15 September 2016 (Brandon Schoech) Comic Neue version 2.3
